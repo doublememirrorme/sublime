@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Agila Theme",
+		"Colorsublime",
+		"Emmet",
+		"GhostText",
+		"Laravel 5 Artisan",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-php",
+		"SublimeTmpl"
+	]
+}
